@@ -2,8 +2,8 @@
   PALETA DE COLORES
 ======================================*/
 :root {
-    --color-primario: #5b5ff5;
-    --color-secundario: #ff8f70;
+    --color-primario: #f55b5b;
+    --color-secundario: #1d120f;
 }
 
 /*======================================
@@ -25,7 +25,7 @@ body {
     );
 
     min-height: 100vh;
-    color: #333;
+    color: #333333;
 }
 
 /*======================================
@@ -67,7 +67,7 @@ body {
 
 .hero p {
     font-size: 1.4rem;
-    margin-top: 15px;
+    margin-top:px;
 }
 
 /*======================================
@@ -83,7 +83,7 @@ main {
 /*======================================
   TARJETAS
 ======================================*/
-.card {
+.card {https://imgs.search.brave.com/3hom2Dv9AbNz_QhzQ9_wwQk55b9zjuPrn4a5rOXjgR8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzkwLzJm/LzhjLzkwMmY4YzI0/ZmFkMTYyZjgxYjg0/MDVkZDFjYmU4MDBm/LmpwZw
     background: white;
 
     margin-bottom: 30px;
@@ -100,7 +100,7 @@ main {
     transform: translateY(-8px);
 }
 
-.card h2 {
+.card h2 {s
     color: var(--color-primario);
     margin-bottom: 20px;
     font-size: 2rem;
@@ -108,7 +108,7 @@ main {
 
 .card img {
     width: 100%;
-    max-width: 450px;
+    max-width: 250px;
 
     display: block;
     margin: 20px auto;
